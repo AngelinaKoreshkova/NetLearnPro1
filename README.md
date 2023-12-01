@@ -1,4 +1,4 @@
-# NetLearnPro
+# NetLearnPro1
 -- Создание базы данных NetLearnPro
 CREATE DATABASE IF NOT EXISTS NetLearnPro;
 
